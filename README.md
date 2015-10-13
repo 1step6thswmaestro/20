@@ -1,4 +1,8 @@
-# 20
-##Son Yeongsu 손영수 멘토님
-##Team Repo 운영중입니다
-######github.com/honeyqa
+#손영수 멘토님
+
+## 팀 Repository 운영중입니다.
+[http://github.com/honeyqa](http://github.com/honeyqa)
+
+
+## News
+![node](./jmw.png)
