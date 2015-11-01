@@ -9,6 +9,6 @@
 
 [nodragon](https://github.com/JungMinu) **갓민우**님
 
-![nodragon birthday](./nodragon_birthday.jpg)
+![성훈이가 선물해준 케익](./nodragon_birthday.jpg)
 
 11월 1일은 [nodragon](https://github.com/JungMinu) **갓민우**님 오신날입니다
