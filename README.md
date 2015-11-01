@@ -5,7 +5,7 @@
 
 
 ## News
-![node](./honey.png)
+![node](./jmw.png)
 
 [nodragon](https://github.com/JungMinu) **갓민우**님
 
